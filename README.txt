@@ -15,11 +15,11 @@
 *		  autimente o GCC, como por exemplo o DEV C++.				      *
 *											      *
 *		  Para isso, crie um novo projeto na IDE utilizada e importe o arquivo	      *
-*		  "main.c" disponível no GitHub: 					      *
+*		  "main.c" disponível aqui no GitHub.					      *
 *		  Em seguinda compile e execute o arquivo "main.c			      *
 * 											      *
 *		# Outra forma para execução do programa é utilizar o arquivo "MARSROVERS.exe" *
-*		  também disponível no GitHub indicado (desde que o GCC esteja inslado em     *
+*		  também disponível aqui GitHub (desde que o GCC esteja inslado em     *
 *		  em sua máquina). Baixe o arquivo, clique duas vezes e o programa será	      * 		
 *		  executado. 								      *
 *											      *
@@ -31,7 +31,7 @@
 *			Para executar: MARSROVERS.exe   				      *
 *   											      *
 *		# A especificação do programa, juntamente com a entrada e saída do programa   *
-*		  está disponibilizada no arquivo MarsRovers.doc no GitHub já indicado.	      *
+*		  está disponibilizada no arquivo MarsRovers.doc no GitHub.	      *
 *		  Basta digitar a entrada conforme especificado, e a saida será impressa na   *
 *		  tela. 								      *
 *											      *
@@ -47,7 +47,7 @@
 * 		  o comando "'ctr+z' + ENTER'.
 * 											      *		
 * Pastas no GitHub:									      *	
-*	-> Existem duas pastas no GitHub acessado pelo link: 				      *
+*	-> Existem duas pastas no GitHub: 				      *
 *		# CodigoFonte: Contém o arquivo 'main.c' com a implementação do programa.     *
 *		  Contém também o arquivo 'MARSROVERS.exe' desse programa. 		      *
 *											      *
