@@ -42,6 +42,9 @@
 *		  tenha mais de um rover, esse(s) não serão considerados obstáculos para o    *
 *		  movimento do Rover que está sendo executado no momento. Apenas as margens   *
 *		  da grid que serão obstáculos. 					      *
+*											      *
+*    		# Para terminar a execução do programa, basta digitar na primeira entrada     *
+* 		  o comando "'ctr+z' + ENTER'.
 * 											      *		
 * Pastas no GitHub:									      *	
 *	-> Existem duas pastas no GitHub acessado pelo link: 				      *
