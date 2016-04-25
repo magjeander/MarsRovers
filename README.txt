@@ -46,6 +46,7 @@
 * Pastas no GitHub:									      *	
 *	-> Existem duas pastas no GitHub acessado pelo link: 				      *
 *		# CodigoFonte: Contém o arquivo 'main.c' com a implementação do programa.     *
+*		  Contém também o arquivo 'MARSROVERS.exe' desse programa. 		      *
 *											      *
 *		# TesteCodigoFonte: Contém o arquivo 'main.c' com a implementação do programa *
 *	          com a diferença que a saída irá gerar uma matriz mostrando o caminho feito  *
@@ -54,9 +55,11 @@
 *		  se encontra, é representada por 'S', 'W', 'E' ou 'N', que também representa *
 *		  a sua orientação. Dessa forma é possível acompanhar o caminho feito pelo    *
 *		  Rover, utilizando esse arquivo como um teste automatizado para conferir se  *
-*		  se a saída está correta. 						      *
+*		  se a saída está correta. Contém também o arquivo 'MARSROVERS.exe' desse     *
+*		  programa.						      		      *
 * 											      *
 * 											      *
 * Autor: Magjeander Oliveira Silva     							      *
 * Email: magjeander@yahoo.com.br 							      *
 ***********************************************************************************************
+
